@@ -1,5 +1,5 @@
 streamlit==1.8.1
-Pillow
+Pillow==9.4.0
 matplotlib
 tensorflow==2.15.0
 keras
